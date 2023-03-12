@@ -22,19 +22,19 @@
     "url": "https://livecodes-sandbox.pages.dev/v4/result",
     "icon": "https://icons.duckduckgo.com/ip3/livecodes-sandbox.pages.dev.ico",
     "slug": "live-codes-sandbox",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "98.33%",
+    "uptimeWeek": "99.76%",
+    "uptimeMonth": "99.95%",
+    "uptimeYear": "99.99%",
     "time": 121,
     "timeDay": 77,
-    "timeWeek": 103,
-    "timeMonth": 104,
+    "timeWeek": 100,
+    "timeMonth": 103,
     "timeYear": 121,
     "dailyMinutesDown": {
-      "2023-03-12": 0
+      "2023-03-12": 24
     }
   }
 ]
