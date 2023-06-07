@@ -14,7 +14,7 @@ status-website:
   cname: status.livecodes.io
   baseUrl: /
   logoUrl: https://raw.githubusercontent.com/live-codes/livecodes/develop/images/logo/livecodes-logo.svg
-  name: Upptime
+  name: LiveCodes Status
   introTitle: "**LiveCodes** - Code Playground That Just Works!"
   introMessage: This is the uptime status page for the LiveCodes app.
   navbar:
