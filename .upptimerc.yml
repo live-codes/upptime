@@ -6,20 +6,22 @@ sites:
   - name: LiveCodes
     url: https://livecodes.io
   - name: LiveCodes Sandbox
-    url: https://livecodes-sandbox.pages.dev/v4/result
+    url: https://livecodes-sandbox.pages.dev/v6/result
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  # cname: demo.upptime.js.org
+  cname: status.livecodes.io
   baseUrl: /upptime
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
+  logoUrl: https://raw.githubusercontent.com/live-codes/livecodes/develop/images/logo/livecodes-logo.svg
   name: Upptime
-  introTitle: "**LiveCodes,** the code playground that runs in the browser!"
-  introMessage: This is the uptime status page for LiveCodes app and services. Powered by [Upptime](https://github.com/upptime/upptime).
+  introTitle: "**LiveCodes** - Code Playground That Just Works!"
+  introMessage: This is the uptime status page for the LiveCodes app.
   navbar:
     - title: App
       href: https://livecodes.io/
+    - title: Docs
+      href: https://livecodes.io/docs/
     - title: GitHub
       href: https://github.com/live-codes/livecodes/
 
