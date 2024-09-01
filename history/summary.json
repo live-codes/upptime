@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 218,
-    "timeDay": 155,
-    "timeWeek": 298,
-    "timeMonth": 238,
+    "timeDay": 365,
+    "timeWeek": 303,
+    "timeMonth": 241,
     "timeYear": 236,
     "dailyMinutesDown": {
       "2023-10-30": 24
@@ -25,16 +25,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/livecodes-sandbox.pages.dev.ico",
     "slug": "live-codes-sandbox",
     "status": "up",
-    "uptime": "99.99%",
+    "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 148,
-    "timeDay": 158,
-    "timeWeek": 134,
-    "timeMonth": 130,
-    "timeYear": 136,
+    "timeDay": 173,
+    "timeWeek": 142,
+    "timeMonth": 133,
+    "timeYear": 137,
     "dailyMinutesDown": {
       "2023-10-30": 24
     }
