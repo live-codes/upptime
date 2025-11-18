@@ -6,17 +6,17 @@
     "slug": "live-codes",
     "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.05%",
+    "uptimeWeek": "99.86%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "100.00%",
     "time": 277,
     "timeDay": 197,
     "timeWeek": 252,
     "timeMonth": 269,
-    "timeYear": 283,
+    "timeYear": 284,
     "dailyMinutesDown": {
-      "2025-11-18": 0
+      "2025-11-18": 14
     }
   },
   {
@@ -26,9 +26,9 @@
     "slug": "live-codes-sandbox",
     "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.05%",
+    "uptimeWeek": "99.86%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "100.00%",
     "time": 156,
     "timeDay": 101,
@@ -36,7 +36,7 @@
     "timeMonth": 174,
     "timeYear": 160,
     "dailyMinutesDown": {
-      "2025-11-18": 0
+      "2025-11-18": 14
     }
   }
 ]
