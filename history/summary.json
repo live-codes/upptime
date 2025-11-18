@@ -4,19 +4,19 @@
     "url": "https://livecodes.io",
     "icon": "https://icons.duckduckgo.com/ip3/livecodes.io.ico",
     "slug": "live-codes",
-    "status": "down",
+    "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "90.59%",
-    "uptimeWeek": "98.66%",
-    "uptimeMonth": "99.69%",
+    "uptimeDay": "89.80%",
+    "uptimeWeek": "98.54%",
+    "uptimeMonth": "99.66%",
     "uptimeYear": "99.97%",
     "time": 276,
-    "timeDay": 202,
+    "timeDay": 207,
     "timeWeek": 239,
     "timeMonth": 262,
-    "timeYear": 283,
+    "timeYear": 282,
     "dailyMinutesDown": {
-      "2025-11-18": 135
+      "2025-11-18": 146
     }
   },
   {
