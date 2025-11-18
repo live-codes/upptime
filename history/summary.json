@@ -6,9 +6,9 @@
     "slug": "live-codes",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "89.80%",
-    "uptimeWeek": "98.54%",
-    "uptimeMonth": "99.66%",
+    "uptimeDay": "90.60%",
+    "uptimeWeek": "98.66%",
+    "uptimeMonth": "99.69%",
     "uptimeYear": "99.97%",
     "time": 276,
     "timeDay": 207,
@@ -16,7 +16,7 @@
     "timeMonth": 262,
     "timeYear": 282,
     "dailyMinutesDown": {
-      "2025-11-18": 146
+      "2025-11-18": 135
     }
   },
   {
@@ -24,16 +24,16 @@
     "url": "https://livecodes-sandbox.pages.dev/v6/result",
     "icon": "https://icons.duckduckgo.com/ip3/livecodes-sandbox.pages.dev.ico",
     "slug": "live-codes-sandbox",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "88.70%",
-    "uptimeWeek": "98.39%",
+    "uptimeDay": "88.69%",
+    "uptimeWeek": "98.38%",
     "uptimeMonth": "99.63%",
     "uptimeYear": "99.97%",
     "time": 156,
-    "timeDay": 103,
-    "timeWeek": 157,
-    "timeMonth": 172,
+    "timeDay": 100,
+    "timeWeek": 151,
+    "timeMonth": 170,
     "timeYear": 160,
     "dailyMinutesDown": {
       "2025-11-18": 163
