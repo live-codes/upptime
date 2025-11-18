@@ -4,37 +4,39 @@
     "url": "https://livecodes.io",
     "icon": "https://icons.duckduckgo.com/ip3/livecodes.io.ico",
     "slug": "live-codes",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "90.60%",
+    "uptimeWeek": "98.66%",
+    "uptimeMonth": "99.69%",
+    "uptimeYear": "99.97%",
     "time": 277,
-    "timeDay": 201,
-    "timeWeek": 245,
-    "timeMonth": 266,
+    "timeDay": 209,
+    "timeWeek": 246,
+    "timeMonth": 265,
     "timeYear": 283,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-11-18": 135
+    }
   },
   {
     "name": "LiveCodes Sandbox",
     "url": "https://livecodes-sandbox.pages.dev/v6/result",
     "icon": "https://icons.duckduckgo.com/ip3/livecodes-sandbox.pages.dev.ico",
     "slug": "live-codes-sandbox",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "98.10%",
-    "uptimeWeek": "99.73%",
-    "uptimeMonth": "99.94%",
-    "uptimeYear": "99.99%",
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "88.70%",
+    "uptimeWeek": "98.39%",
+    "uptimeMonth": "99.63%",
+    "uptimeYear": "99.97%",
     "time": 156,
-    "timeDay": 101,
-    "timeWeek": 161,
-    "timeMonth": 174,
+    "timeDay": 103,
+    "timeWeek": 157,
+    "timeMonth": 172,
     "timeYear": 160,
     "dailyMinutesDown": {
-      "2025-11-18": 27
+      "2025-11-18": 163
     }
   }
 ]
