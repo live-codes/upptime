@@ -11,13 +11,11 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 238,
-    "timeDay": 242,
-    "timeWeek": 237,
-    "timeMonth": 281,
+    "timeDay": 293,
+    "timeWeek": 248,
+    "timeMonth": 275,
     "timeYear": 219,
-    "dailyMinutesDown": {
-      "2025-11-18": 135
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "LiveCodes Sandbox",
@@ -30,13 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
-    "time": 154,
-    "timeDay": 132,
-    "timeWeek": 140,
-    "timeMonth": 162,
-    "timeYear": 145,
-    "dailyMinutesDown": {
-      "2025-11-18": 163
-    }
+    "time": 155,
+    "timeDay": 388,
+    "timeWeek": 171,
+    "timeMonth": 169,
+    "timeYear": 146,
+    "dailyMinutesDown": {}
   }
 ]
